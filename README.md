@@ -14,8 +14,10 @@ Este repositório é o resultado de um estudo aprofundado sobre a carreira de **
 
 **Pergunta 1: "Como Hikaru Utada revolucionou o som do J-pop nos anos 90?"**
 Resposta: "Utada revolucionou o som do J-pop ao introduzir o R&B contemporâneo e estabelecer total autonomia artística como cantor-compositor, rompendo com o modelo tradicional de "idols" manufaturadas",
-"Gerindo de forma independente pela agência familiar U3 Music, o artista mantém um legado global icônico que une temas de Kingdom Hearts a uma reinvenção sonora constante"
+"Gerindo de forma independente pela agência familiar U3 Music, o artista mantém um legado global icônico que une temas de Kingdom Hearts a uma reinvenção sonora constante".
+
 *Troubleshooting pergunta 1: Hikaru Utada não introduziu singularmente o R&B, teve ajuda de outros artistas.*
+
 Resposta reformulada: "Você tem toda a razão e as fontes confirmam que Utada não estava sozinha nessa transição sonora! Utada é reconhecida como uma das precursoras que trouxeram o R&B influenciado pelos EUA para o Japão no final dos anos 90, ao lado de artistas como Double, Crystal Kay e uma Namie Amuro que havia acabado de se reinventar sonoramente"
 
 **Pergunta 2: "Explique a importância do album Fantôme e por que ele é um álbum de peso na carreira de Hikki"**
@@ -24,7 +26,9 @@ O disco incluiu parcerias marcantes, como o dueto "Nijikan Dake no Vacance" com 
 
 **Pergunta 3: Explique a relação entre a unidade musical U3 e o pseudônimo solo Cubic U, listando os álbuns lançados por cada projeto antes da estreia oficial de Hikaru Utada no Japão."**
 Resposta: Cubic U e U3 são a mesma coisa, termos usados para descrever a fase inicial de Hikaru Utada em Nova York. Sob esse projeto solo, Utada lançou dois álbuns em inglês: Star (1993) e Precious (1998), ambos focados em sua carreira internacional antes de se tornar famosa no Japão.
+
 *Troubleshooting pergunta 3: IA tratou a banda da família (U3) e o nome solo (Cubic U) como sinônimos, ignorando que um era um grupo e o outro era uma persona individual*
+
 Resposta reformulada: U3 (Utada 3) era uma unidade familiar composta por Hikaru e seus pais, Teruzane Utada e Keiko Fuji. O álbum lançado por este grupo foi Star (1993).
 Cubic U: Foi o pseudônimo solo em inglês de Utada, funcionando como uma referência matemática por ser a "terceira força" da família. O álbum lançado sob esta persona foi Precious (lançado originalmente em janeiro de 1998).
 
