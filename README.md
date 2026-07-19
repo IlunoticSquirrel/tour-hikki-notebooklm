@@ -4,9 +4,11 @@
 Este repositório é o resultado de um estudo aprofundado sobre a carreira de **Hikaru Utada**, com o uso a ferramenta NotebookLM. O objetivo é compreender a trajetória de Hikaru Utada, seu sucesso no ramo musical e como conseguiu quebrar os moldes da indústria de "idols" no Japão e ajudar na introdução do R&B contemporâneo como um padrão de sucesso comercial, e quebrar recordes musicais pela ásia e mundo.
 
 # Curadoria de Fontes
-POP 101: A Guide to Hikaru Utada (Transcrição de Vídeo - CCTV): Esta fonte traz uma perspectiva internacional sobre o impacto da artista, analisando seu raro debut em inglês como Cubic U e sua importância na introdução do R&B americano no mercado japonês
-O Legado de HIKARU UTADA (Transcrição de Vídeo - Claquete de Papel): Oferece uma visão cultural profunda sobre como Utada definiu o J-pop moderno e sua conexão emocional com os fãs, especialmente através da franquia Kingdom Hearts
-Wikipédia: Base factual de recordes e cronologia
+**POP 101: A Guide to Hikaru Utada (Transcrição de Vídeo - CCTV):** Esta fonte traz uma perspectiva internacional sobre o impacto da artista, analisando seu raro debut em inglês como Cubic U e sua importância na introdução do R&B americano no mercado japonês
+
+**O Legado de HIKARU UTADA (Transcrição de Vídeo - Claquete de Papel):** Oferece uma visão cultural profunda sobre como Utada definiu o J-pop moderno e sua conexão emocional com os fãs, especialmente através da franquia Kingdom Hearts
+
+**Wikipédia:** Base factual de recordes e cronologia
 
 # Engenharia de Prompts e "cicatrizes"
 
