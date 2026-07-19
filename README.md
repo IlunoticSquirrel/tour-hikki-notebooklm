@@ -1,5 +1,5 @@
 # 🐻 Guia completo em NotebookLm: Hikaru Utada
-
+**Link: https://notebooklm.google.com/notebook/7421b538-ca2a-4f18-a3ca-e49a5400d7ab**
 # Descrição e contexto
 Este repositório é o resultado de um estudo aprofundado sobre a carreira de **Hikaru Utada**, com o uso a ferramenta NotebookLM. O objetivo é compreender a trajetória de Hikaru Utada, seu sucesso no ramo musical e como conseguiu quebrar os moldes da indústria de "idols" no Japão e ajudar na introdução do R&B contemporâneo como um padrão de sucesso comercial, e quebrar recordes musicais pela ásia e mundo.
 
